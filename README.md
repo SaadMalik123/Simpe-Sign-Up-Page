@@ -1,4 +1,4 @@
-# Simpe-Sign-Up-Page
+# Simple-Sign-Up-Page
 
 ![Screenshot_2](https://user-images.githubusercontent.com/67606444/86219589-e1bff480-bb9b-11ea-8e91-fe92f0aedb07.png)
 
