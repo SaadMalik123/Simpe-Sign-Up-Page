@@ -1,0 +1,157 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.loginbox{
+    width: 500px;
+    height: 500px;
+    background: transparent;
+    color: #fff;
+    top: 35%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 10px;   
+}
+
+.loginbox p{
+    margin: 0;
+    padding: 0 0 10px;
+    font-weight: bold;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.loginbox input{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.loginbox input[type="text"], input[type="password"], input[type="email"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.loginbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+ 
+.loginbox input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #3b5998;
+    color: #000;   
+}
+
+.loginbox a{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.loginbox i{
+    width: 26px;
+    float: left;
+    text-align: left;
+}
+
+.loginbox a:hover
+{
+    color: #ffc107;
+} 
+
+.fa-user .fa-envelope .fa-lock {
+    margin-top: 5px;
+}
+
+.my-4 {
+    color: white;
+    width: 75%;
+    border: 1px solid white;
+}
+
+.col-12.social.padding {
+    margin-left: 30px;
+}
+
+.social a{
+    font-size: 2em;
+}
+
+.fa-facebook {
+    color: #3b5998;
+    padding-right: 80px;
+}
+.fa-twitter {
+    color: #00aced;
+    padding-right: 80px;
+}
+.fa-google-plus-g {
+    color: #dd4b39;
+    padding-right: 80px;
+}
+.fa-instagram {
+    color: #517fa4;
+    padding-right: 80px;
+}
+.fa-youtube {
+    color: #bb0000;
+}
+
+.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover, .fa-youtube:hover {
+    color: #d5d5d5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
